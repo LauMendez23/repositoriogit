@@ -1,0 +1,17 @@
+#p6_strong {
+    font-weight: bolder;
+}
+
+#adidas {
+    color: #ffff00;
+    text-decoration: underline;
+}
+
+#as {
+    color: #ee82ee;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 200%;
+}

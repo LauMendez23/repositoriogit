@@ -1,0 +1,34 @@
+.p5_green_ul {
+text-decoration: underline;
+color: #008000;
+}
+
+.p5_red {
+    color: #ff0000;
+}
+
+.p5 {
+     text-decoration: underline overline;
+}
+
+.strong {
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+#p5_blue {
+    color: #0000ff;
+}
+
+#p5_end {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+p {
+    line-height: 220%;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}

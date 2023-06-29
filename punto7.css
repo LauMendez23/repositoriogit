@@ -1,0 +1,21 @@
+.punto7{
+    background-color: #ffc0cb;
+}
+
+.punto7 ul {
+    display: inline-flex;
+}
+
+.punto7 li {
+    padding: 12%;
+    list-style: none;
+}
+
+.punto7 li:hover {
+    background-color: #0000ff;
+}
+
+.punto7 a { 
+    color: #ffffff;
+    font-size: 120%;
+}

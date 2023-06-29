@@ -1,0 +1,15 @@
+.table1{
+    background-color: #ffff00;
+    border-collapse: collapse ;
+    border-bottom: dotted #ff0000;
+}
+.table1 th {
+    color: #ff0000;
+}
+
+.table1 th, td {
+    border: 1px dotted #000000;
+    
+}
+
+
